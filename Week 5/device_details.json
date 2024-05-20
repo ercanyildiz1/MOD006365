@@ -1,0 +1,8 @@
+{
+  "device1": {
+    "ip": "192.168.1.10",
+    "username": "admin",
+    "password": "secret",
+    "device_type": "cisco_ios"
+  }
+}
